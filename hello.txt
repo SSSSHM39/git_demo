@@ -1,0 +1,8 @@
+hello git!
+hello git!
+hello git!
+hello git!
+esc 退出输入模式
+yy 复制当前行
+p 粘贴
+最后一行
