@@ -1,7 +1,7 @@
 hello git! hot-fix_change
 hello git!
 hello git!
-hello git!
+hello git! master_change
 esc 退出输入模式
 yy 复制当前行
 p 粘贴
