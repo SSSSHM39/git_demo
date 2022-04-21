@@ -104,7 +104,7 @@ drwxr-xr-x 1 Rei 197121 0 Apr 19 18:33 .git/
 
 ```
 
-![image-20220419185720222](Git入门.assets/image-20220419185720222-16503658440831.png)
+![image-20220419185720222](Git入门.assets/image-20220419185720222.png)
 
 ### 查看本地库状态
 
@@ -122,7 +122,7 @@ No commits yet
 nothing to commit (create/copy files and use "git add" to track)
 ```
 
-![image-20220419185855525](Git入门.assets/image-20220419185855525-16503659371202.png)
+![image-20220419185855525](Git入门.assets/image-20220419185855525.png)
 
 新增文件(hello.txt)
 
@@ -174,7 +174,7 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-![image-20220419190222440](Git入门.assets/image-20220419190222440-16503661435316.png)
+![image-20220419190209687-16503661314665](Git入门.assets/image-20220419190209687-16503661314665.png)
 
 ### 添加暂存区
 
@@ -314,7 +314,7 @@ git add .
 
 #### 解决冲突
 
-![image-20220419201924853](Git入门.assets/image-20220419201924853-165037076700628.png)
+![image-20220419201852324](Git入门.assets/image-20220419201852324.png)
 
 ![image-20220419202208045](Git入门.assets/image-20220419202208045-165037092887230.png)
 
@@ -336,7 +336,7 @@ hot-fix分支中并没有被合并
 
 ### 跨团队协作
 
-![img](Git入门.assets/EE26257FD3CCD9ABCED9F7A39A4DA0B9-165037276181735.png)
+![EE26257FD3CCD9ABCED9F7A39A4DA0B9](Git入门.assets/EE26257FD3CCD9ABCED9F7A39A4DA0B9.png)
 
 ***
 
@@ -414,7 +414,7 @@ clone会做以下操作：
 
 push失败，没有权限
 
-![image-20220420123512050](Git入门.assets/image-20220420123512050-16504293128631.png)
+![image-20220420123456362](Git入门.assets/image-20220420123456362.png)
 
 添加成员
 
